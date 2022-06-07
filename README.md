@@ -3,6 +3,7 @@ I'm a Freshman student at West Visayas State University taking up Bachelor of Sc
 
 ## 🌱 I'm currently learning ...
 - C++
+- C#
 - Java
 - Python
 - HTML
