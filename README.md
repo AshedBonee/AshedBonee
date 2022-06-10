@@ -19,5 +19,4 @@ I'm a Freshman student at West Visayas State University taking up Bachelor of Sc
 - Code 🖥️
 
 ## 📫 How to reach me:
-- [School Email](vonashley.chichirita@wvsu.edu.ph) 📧
 - [Twitter](https://twitter.com/ashed_bone) 🐦
