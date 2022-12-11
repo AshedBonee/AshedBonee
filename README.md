@@ -1,5 +1,5 @@
 # Hello Everyone!👋 I am Von Ashley Chichirita 😄
-I'm a Freshman student at West Visayas State University taking up Bachelor of Science in Computer Science. 💻
+I'm a sophomore student at West Visayas State University taking up Bachelor of Science in Computer Science. 💻
 
 ## 🌱 I'm currently learning ...
 - C++
